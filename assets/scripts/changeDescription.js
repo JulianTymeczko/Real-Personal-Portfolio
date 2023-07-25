@@ -32,7 +32,7 @@ const changeDescription = (nameCard, text) => {
 
 changeDescription(
     '.html',
-    'Using semantic elements to structure layouts, forms, tables, and many different types of curcial basics of web development.'
+    'Using semantic elements to structure layouts, forms, tables, and many different types of crucial basics of web development.'
 )
 
 changeDescription(
