@@ -57,5 +57,5 @@ changeDescription(
 
 changeDescription(
     '.accessibility',
-    'Best practices; such as semantic elements and using the alt attribute for screen readers and for boosting the SEO.'   
+    'Best practices; such as semantic elements and using attributes for screen readers and for boosting the SEO.'   
 )
