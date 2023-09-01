@@ -42,7 +42,7 @@ changeDescription(
 
 changeDescription(
     '.js',
-    'Traversing the DOM, using libraries like JQuery, medthods and events with functions.'
+    'Traversing the DOM, using libraries like JQuery, methods and events with functions.'
 )
 
 changeDescription(
