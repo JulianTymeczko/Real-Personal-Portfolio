@@ -42,17 +42,17 @@ changeDescription(
 
 changeDescription(
     '.js',
-    'Traversing the DOM, using libraries like JQuery, methods and events with functions.'
+    'Traversing the DOM, using libraries and frameworks, and other concepts like asynchronous JavaScipt.'
 )
 
 changeDescription(
     '.git',
-    'Version control and using Git commands.'
+    'Version control, Git commands, and collaborating with other developers.'
 )
 
 changeDescription(
     '.responsive',
-    'Understanding responsive design, breakpoints and ensuring flexibility of the elements on a page.'   
+    'Understanding responsive design, breakpoints and ensuring websites adapt gracefully to various screen sizes and devices.' 
 )
 
 changeDescription(
