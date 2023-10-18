@@ -16,12 +16,14 @@ const changeDescription = (nameCard, text) => {
         if(nameCard === '.git') {
             cardName.innerHTML = ' Git '
         } 
-        if(nameCard === '.responsive') {
-            cardName.innerHTML = ' Responsiveness '
+        if(nameCard === '.bootstrap') {
+            cardName.innerHTML = ' Bootstrap '
+        }
+       
+        if (nameCard === '.react'){
+            cardName.innerHTML = ' React '
         } 
-        if(nameCard === '.accessibility') {
-            cardName.innerHTML = ' Accessibility '
-        } 
+        
     })
 
     document.querySelector(nameCard).addEventListener('mouseout', () => {
@@ -32,30 +34,29 @@ const changeDescription = (nameCard, text) => {
 
 changeDescription(
     '.html',
-    'Using semantic elements to structure layouts, forms, tables, and many different types of crucial basics of web development.'
+    'For a full list of skills and tools check out my resume.'
 )
 
 changeDescription(
     '.css',
-    'Using box model, CSS grid, flexbox, pseudo-classes, animations and Bootstrap.'
+    'For a full list of skills and tools check out my resume.'
 )
 
 changeDescription(
     '.js',
-    'Traversing the DOM, using libraries and frameworks, and other concepts like asynchronous JavaScipt.'
+    'For a full list of skills and tools check out my resume.'
 )
 
 changeDescription(
     '.git',
-    'Version control, Git commands, and collaborating with other developers.'
+    'For a full list of skills and tools check out my resume.'
+)
+changeDescription(
+    '.react',
+    'For a full list of skills and tools check out my resume.'
+)
+changeDescription(
+    '.bootstrap',
+    'For a full list of skills and tools check out my resume.'
 )
 
-changeDescription(
-    '.responsive',
-    'Understanding responsive design, breakpoints and ensuring websites adapt gracefully to various screen sizes and devices.' 
-)
-
-changeDescription(
-    '.accessibility',
-    'Best practices; such as semantic elements and using attributes for screen readers and for boosting the SEO.'   
-)
